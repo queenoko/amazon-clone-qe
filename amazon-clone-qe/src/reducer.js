@@ -1,7 +1,16 @@
 // data layer logic
 
 export const initialState = {
-    basket: [],
+    basket: [
+        {
+                id:"123456775",
+                title:"Comic books for children for all ages",
+                price:499,
+                rating:5,
+                image:"https://upload.wikimedia.org/wikipedia/commons/6/65/Fair_use_icon_-_Comics.svg"
+        },
+    ],
+    user: null,
 };
 
 const reducer = (state, action) => {
