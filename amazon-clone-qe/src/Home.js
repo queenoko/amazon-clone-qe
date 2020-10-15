@@ -16,7 +16,7 @@ function Home() {
               <Product 
                 id="123456775"
                 title="Comic books for children for all ages"
-                price={499}
+                price={499.98}
                 rating={5}
                 image="https://upload.wikimedia.org/wikipedia/commons/6/65/Fair_use_icon_-_Comics.svg"
               />
@@ -24,7 +24,7 @@ function Home() {
               <Product 
                 id="470726469188"
                 title="Washing Machine"
-                price={45.499}
+                price={45499.99}
                 rating={5}
                 image="https://upload.wikimedia.org/wikipedia/commons/b/b3/Washing_Machine_Beko.jpg"
               />
@@ -34,7 +34,7 @@ function Home() {
               <Product 
                 id="480469474728"
                 title="Wrist Watch"
-                price={4.999}
+                price={4999.55}
                 rating={5}
                 image="https://upload.wikimedia.org/wikipedia/commons/a/ad/Stopwatch_Mode_in_Casio_Wristwatch.jpg"
               />
@@ -42,7 +42,7 @@ function Home() {
               <Product 
                 id="57902175199"
                 title="Speaker"
-                price={7.699}
+                price={7699.78}
                 rating={5}
                 image="https://upload.wikimedia.org/wikipedia/commons/6/67/JBL_Flip_3_bluetooth_speaker_%28DSCF2653%29.jpg"
               />
@@ -50,7 +50,7 @@ function Home() {
               <Product 
                 id="6482315612"
                 title="Iphone 11 Pro"
-                price={154.999}
+                price={154999.98}
                 rating={5}
                 image="https://upload.wikimedia.org/wikipedia/commons/9/94/IPhone_11_Pro_Midnight_Green.svg"
               />
@@ -60,7 +60,7 @@ function Home() {
               <Product 
                 id="4864887194561"
                 title="Television"
-                price={110.969}
+                price={110969.99}
                 rating={5}
                 image="https://upload.wikimedia.org/wikipedia/commons/8/87/LG_smart_TV.png"
               />
