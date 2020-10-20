@@ -17,7 +17,7 @@ function Home() {
                 id="123456775"
                 title="Comic books for children for all ages"
                 price={499.98}
-                rating={5}
+                rating={4}
                 image="https://upload.wikimedia.org/wikipedia/commons/6/65/Fair_use_icon_-_Comics.svg"
               />
 
@@ -35,7 +35,7 @@ function Home() {
                 id="480469474728"
                 title="Wrist Watch"
                 price={4999.55}
-                rating={5}
+                rating={3}
                 image="https://upload.wikimedia.org/wikipedia/commons/a/ad/Stopwatch_Mode_in_Casio_Wristwatch.jpg"
               />
 
@@ -43,7 +43,7 @@ function Home() {
                 id="57902175199"
                 title="Speaker"
                 price={7699.78}
-                rating={5}
+                rating={4}
                 image="https://upload.wikimedia.org/wikipedia/commons/6/67/JBL_Flip_3_bluetooth_speaker_%28DSCF2653%29.jpg"
               />
 
@@ -51,7 +51,7 @@ function Home() {
                 id="6482315612"
                 title="Iphone 11 Pro"
                 price={154999.98}
-                rating={5}
+                rating={2}
                 image="https://upload.wikimedia.org/wikipedia/commons/9/94/IPhone_11_Pro_Midnight_Green.svg"
               />
           </div>
