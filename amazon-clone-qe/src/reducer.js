@@ -23,6 +23,14 @@ const reducer = (state, action) => {
                 ...state,
                 basket: [...state.basket, action.item]
              };
+
+        case 'EMPTY_BASKET':
+             return {
+                 ...state,
+                 basket: []
+             }
+
+
         case 'REMOVE_FROM_BASKET':
             //Logic for removing item from basket
 

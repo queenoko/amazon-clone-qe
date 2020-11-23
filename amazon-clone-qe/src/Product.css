@@ -8,13 +8,14 @@
     margin: 10px;
     padding: 20px;
     width: 100%;
-    background-color: white;
+    background-color: #9f86c0;
     z-index: 1;
 }
 
 .product__info{
     height: 100px;
     margin-bottom: 15px;
+    color: white;
 }
 
 .product__price{
@@ -33,7 +34,7 @@
 }
 
 .product > button {
-    background-color: #f0c14b;
+    background-color: #e0b1cb;
     border: 1px solid;
     border-color: #a88734 #9c7831 #846a29;
 }

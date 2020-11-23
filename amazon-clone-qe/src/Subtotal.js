@@ -26,12 +26,12 @@ function Subtotal() {
             decimalScale={2}
             value={getBasketTotal(basket)}
             displayType={"text"}
-            thousandSeperator={true}
-            prefix={"#"}
-        />
-            <button>Proceed to Checkout</button>
+            thousandSeparator={true}
+            prefix={"₦"}
+          />
+            <button onClick={e => history.push('/payment')}>Proceed to Checkout</button>
         </div>
-);
+    );
 }
 
 export default Subtotal;
